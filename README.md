@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anvesha Nain</h1>
-<h3 align="center">A passionate Computer Science major at Purdue University</h3>
+<h3 align="center">A passionate Computer Science student at Purdue University</h3>
 
 - 🔭 I’m currently building **a passion project that will be out in the market soon**
 
