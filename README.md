@@ -2,9 +2,15 @@
 
 ### Hello, I'm Anvesha.
 
-I'm a Computer Science student at **Purdue University**, focusing on **Machine Intelligence** and graduating in **May 2027**. I like working at the intersection of AI, healthcare, and product development, especially when a technical idea can become something people actually use.
+I'm a Computer Science student at **Purdue University**, graduating in May 2027, with a passion for building technology that solves real problems, especially at the intersection of **artificial intelligence, healthcare, and product development**.
 
-My background includes AI product work at **Ensora Health**, machine learning research, and building mobile and web applications. I'm currently interested in **AI robotics for mental health** and human-centered AI.
+My experience combines both the technical and product sides of AI. During my internship at **Ensora Health**, I worked on agentic AI solutions designed to reduce administrative work for therapists. I led product discovery, translated user needs into product requirements, collaborated with engineering and AI teams, and built a Python-based evaluation framework to assess AI agent performance and reliability.
+
+Through **Purdue's Data Mine**, I've worked on two industry-sponsored projects. With **Prediction Guard**, I evaluated the security of AI agents through adversarial testing and identified vulnerabilities in their safeguards. With **AgReliant Genetics**, I developed data pipelines, applied machine learning techniques, and created data visualizations to support business decisions. I've also helped build **SnapStudy**, an AI-powered learning assistant designed to make educational content more accessible.
+
+I'm especially interested in **human-centered AI, AI robotics for mental health, and intelligent healthcare products**. I enjoy bringing together technical problem-solving, creativity, and an understanding of user needs to build things that people can actually use.
+
+[Explore my portfolio](https://anain0404.github.io/anvesha-portfolio/) · [View my repositories](https://github.com/anain0404?tab=repositories)
 
 [**Explore my portfolio ↗**](https://anain0404.github.io/anvesha-portfolio/) &nbsp; · &nbsp; [**View my repositories ↗**](https://github.com/anain0404?tab=repositories)
 
