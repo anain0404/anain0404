@@ -141,18 +141,6 @@ I'm especially interested in projects that combine AI with real human needs.
 
 ---
 
-### 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=anain0404)
-
-</div>
-
----
-
-<div align="center">
-
 ### ☕ Let's Connect!
 
 I'm always interested in meeting people working on AI, healthcare technology, and meaningful product ideas.
