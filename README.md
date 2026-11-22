@@ -10,7 +10,8 @@
 
 I'm interested in how AI can solve real problems, especially in healthcare, mental health, and accessibility. I enjoy both building technology and figuring out how to turn it into something people actually need.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-D8A7B1?style=for-the-badge)](https://anain0404.github.io/)
+
+[![Portfolio](https://img.shields.io/badge/☕_My_Portfolio-Anvesha's_Café-D8A7B1?style=for-the-badge)](https://anain0404.github.io/anvesha-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anvesha-nain-a14033223)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-E8B85B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nain.anvesha4@gmail.com)
 
