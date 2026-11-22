@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="./assets/editorial-banner.svg" alt="Anvesha Nain — Building thoughtful technology. AI, healthcare tech, and product development." width="100%" />
-</div>
+<p align="center">
+  <img src="./editorial-banner.svg" alt="Anvesha Nain | Building thoughtful technology" width="100%">
+</p>
 
 <br />
 
