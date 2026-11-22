@@ -105,6 +105,40 @@ Led a four-person cross-functional team in building an AI-powered learning tool 
 
 **Tech:** `AWS Textract` · `Claude` · `Amazon Polly` · `FastAPI` · `Flutter` · `Figma`
 
+
+### 🌷 MindBloom | Personal Project
+**Mood Tracking & Mental Wellness Journal**
+
+Designed and developed MindBloom, a web application that makes daily self-reflection more approachable through mood tracking, personal journaling, and a calming, minimal interface.
+
+- Built an interactive mood tracker with five mood options and optional daily context tags.
+- Developed a journaling system that saves reflections locally in the user's browser.
+- Implemented a seven-day mood visualization to help users explore their emotional patterns.
+- Added reflection history, JSON data export, and entry deletion.
+- Designed a responsive interface with a focus on simplicity and user experience.
+
+**Tech:** `HTML` · `CSS` · `JavaScript` · `localStorage` · `GitHub Pages`
+
+🌐 **[Try MindBloom Live](https://anain0404.github.io/mindbloom/)** · 💻 **[View GitHub Repository](https://github.com/anain0404/mindbloom)**
+
+---
+
+### ✈️ Trip Planner | Collaborative Project
+**Travel Planning Application | In Development**
+
+Currently collaborating with a fellow developer on a travel planning application designed to help users organize trips and manage their travel plans in one place.
+
+- Collaborating on the development of a travel planning application.
+- Working on building and improving the application's functionality and user experience.
+- Exploring ways to make trip organization simpler and more convenient.
+
+**Status:** In Development
+
+💻 **[View GitHub Repository](https://github.com/sanskritim05/Trip-Planner)**
+
+---
+
+
 ### 🧠 AI, Robotics & Mental Health
 **Research Interest / Exploration**
 
