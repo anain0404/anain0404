@@ -147,6 +147,6 @@ I'm always interested in meeting people working on AI, healthcare technology, an
 
 **Have an idea worth building? Let's talk!**
 
-[Portfolio](https://anain0404.github.io/) • [LinkedIn](https://linkedin.com/in/anvesha-nain-a14033223) • [Email](mailto:nain.anvesha4@gmail.com)
+[Portfolio](https://anain0404.github.io/anvesha-portfolio/) • [LinkedIn](https://linkedin.com/in/anvesha-nain-a14033223) • [Email](mailto:nain.anvesha4@gmail.com)
 
 </div>
