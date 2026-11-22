@@ -13,7 +13,8 @@ I'm interested in how AI can solve real problems, especially in healthcare, ment
 
 [![Portfolio](https://img.shields.io/badge/☕_My_Portfolio-Anvesha's_Café-D8A7B1?style=for-the-badge)](https://anain0404.github.io/anvesha-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anvesha-nain-a14033223)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-E8B85B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nain.anvesha4@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-E8B85B?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nain.anvesha4@gmail.com)
+
 
 </div>
 
