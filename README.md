@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://anain0404.github.io/anvesha-portfolio/">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/anvesha-nain-a14033223/">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/anvesha-nain-a14033223/">💼 LinkedIn</a>•&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nain.anvesha4@gmail.com">📧 Email Me</a>
 </p>
 
