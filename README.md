@@ -98,37 +98,45 @@ Exploring how AI and social robotics could support mental health through multimo
 
 **Interests:** Multimodal AI · Human-Robot Interaction · Emotion Recognition · Mental Health Technology
 
----
 
 ### 🛠️ My Toolkit
 
-**Programming & Development**
+#### 💻 Programming & Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-555555?style=flat-square)
 
-**AI, Data & Evaluation**
+#### 🤖 AI & Machine Learning
 
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6F42C1?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-8957E5?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6A8F72?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-Generative_AI-blueviolet?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6A8F72?style=flat-square)
+![DeepEval](https://img.shields.io/badge/DeepEval-355C7D?style=flat-square)
+![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-457B9D?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+
+#### 📊 Data & Analytics
+
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-607D8B?style=flat-square)
+![Business Analysis](https://img.shields.io/badge/Business_Analysis-5C6BC0?style=flat-square)
 
-**Product & Design**
+#### 🎨 Product Management & Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-**Also experienced with:** Product Discovery, PRDs, User Research, Agile/Scrum, AI Evaluation, DeepEval, REST APIs, and Data Pipelines.
+**Product Skills:** Product Discovery · User Research · PRDs · Product Roadmapping · Backlog Prioritization · User Stories · Agile/Scrum · Sprint Planning · Cross-Functional Collaboration
 
----
 
 ### 🌱 What I'm Exploring Next
 
