@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
+<title id="title">Anvesha Nain | Building thoughtful technology</title>
+<desc id="desc">Editorial minimal warm ivory GitHub banner with charcoal type, blush accents, and a geometric arrangement.</desc>
+<rect width="1400" height="430" fill="#F8F6F2"/>
+<rect x="32" y="32" width="1336" height="366" rx="4" fill="none" stroke="#DBD5CF" stroke-width="1.5"/>
+<path d="M74 91 H1326" stroke="#DCD4CD"/>
+<text x="76" y="75" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="4" fill="#55504D">ANVESHA NAIN</text>
+<text x="1113" y="75" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2" fill="#756E69">PORTFOLIO / 2026</text>
+<text x="76" y="185" font-family="Georgia,'Times New Roman',serif" font-size="76" fill="#2E2A2A">Building thoughtful</text>
+<text x="76" y="267" font-family="Georgia,'Times New Roman',serif" font-size="76" font-style="italic" fill="#9B7378">technology.</text>
+<path d="M76 302 H827" stroke="#B6A9A2" stroke-width="1.4"/>
+<text x="76" y="338" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="1.5" fill="#59524E">AI  /  HEALTHCARE TECH  /  PRODUCT DEVELOPMENT</text>
+<text x="76" y="368" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#857B75">PURDUE UNIVERSITY · CLASS OF 2027</text>
+<g transform="translate(1035 194)">
+  <circle cx="105" cy="9" r="110" fill="#E9D5D3"/>
+  <path d="M-16 160 C8 112 49 76 108 57 C172 37 208 55 241 99" fill="none" stroke="#2E2A2A" stroke-width="2.2"/>
+  <path d="M9 137 Q56 157 97 118 Q138 79 188 111" fill="none" stroke="#9B7378" stroke-width="3"/>
+  <path d="M-25 0 H240 M-25 41 H240 M-25 82 H240 M-25 123 H240" stroke="#FFFFFF" stroke-opacity=".45"/>
+  <circle cx="109" cy="57" r="15" fill="#F8F6F2" stroke="#2E2A2A" stroke-width="2"/>
+  <circle cx="208" cy="127" r="7" fill="#9B7378"/>
+  <circle cx="18" cy="144" r="7" fill="#9B7378"/>
+</g>
+</svg>
