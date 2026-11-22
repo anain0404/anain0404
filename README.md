@@ -82,6 +82,16 @@ Worked on customer segmentation and business analytics through Purdue's Data Min
 
 ---
 
+### 🔎 Beyond GitHub
+
+Not all of my work can be shared publicly on GitHub, especially projects involving industry collaborations, proprietary technology, and research.
+
+However, I've documented these experiences in more detail on my portfolio website, where you can explore the stories behind the projects, my contributions, the challenges I worked on, and supporting visuals and media.
+
+**☕ [Explore My Work & Project Stories →](https://anain0404.github.io/anvesha-portfolio/)**
+
+---
+
 ## 🚀 Things I've Built
 
 ### 📚 SnapStudy | Product Lead
