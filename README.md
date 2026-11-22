@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./editorial-banner.svg" alt="Anvesha Nain | Building thoughtful technology" width="100%">
-</p>
 
-<br />
 
 ### Hello, I'm Anvesha.
 
