@@ -140,11 +140,5 @@ I'm always interested in meeting people working on AI, healthcare technology, an
 **Have an idea worth building? Let's talk!**
 
 <p align="center">
-  <a href="https://anain0404.github.io/anvesha-portfolio/">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/anvesha-nain/">💼 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:nain.anvesha4@gmail.com">📧 Email Me</a>
-</p>
-
-<p align="center">
   <i>Brewing ideas into products that make a difference. ☕</i>
 </p>
