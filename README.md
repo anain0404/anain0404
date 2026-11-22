@@ -14,18 +14,20 @@ My background includes AI product work at **Ensora Health**, machine learning re
 
 ---
 
+
 ### Selected work
 
 | Project | What I worked on | Tools & focus |
 | :--- | :--- | :--- |
-| **SnapStudy** | An AI-powered study assistant that processes learning materials and supports accessible study workflows. | Flutter, FastAPI, Amazon Textract, Claude, Polly |
-| **Protein Structure Research** | Deep learning research on protein structure analysis and more efficient computational workflows at Purdue's Kihara Lab. | Python, PyTorch, GPU computing |
-| **Agentic AI Security Evaluation** | Red-teaming AI agents and evaluating how safeguards perform against adversarial attacks in a Prediction Guard collaboration. | LLM evaluation, AI security, red-teaming |
-| **Spryn Health** | A health-focused mobile app project with personalized coaching concepts and a user-centered interface. | Flutter, Firebase, Figma |
+| **Ensora Health – AI Product Development** | Worked on four AI agents designed to reduce administrative work for therapists. Conducted user interviews, translated therapist needs into product requirements, and developed an AI evaluation framework to assess output quality and reliability. | AI Agents, LLMs, Product Discovery, PRDs, AI Evaluation, Azure DevOps |
+| **The Data Mine – Prediction Guard** | Red-teamed agentic AI systems to identify security vulnerabilities and evaluate safeguards against adversarial attacks, with 79% of tested attacks blocked by safeguards. | Agentic AI, LLM Security, Red-Teaming, Python |
+| **The Data Mine – AgReliant Genetics** | Applied machine learning and clustering techniques to agricultural data, comparing predictive models and analyzing results to support data-driven insights. | Python, Random Forest, XGBoost, LightGBM, BIRCH |
+| **SnapStudy – AI Learning Assistant** | Built an AI-powered study assistant that transforms learning materials into accessible study experiences using document processing, generative AI, and text-to-speech. | Flutter, FastAPI, Amazon Textract, Claude, Amazon Polly |
 
 *Some industry and research work cannot be shared as public source code. My [portfolio](https://anain0404.github.io/anvesha-portfolio/) has additional context about the projects and my contributions.*
 
 ---
+
 
 ### What I work with
 
