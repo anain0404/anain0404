@@ -16,6 +16,7 @@
   I enjoy both the technical side of creating products and understanding how to make them useful for people.
 </p>
 
+
 <p align="center">
   <a href="https://anain0404.github.io/anvesha-portfolio/">🌐 Portfolio</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/anvesha-nain-a14033223/">💼 LinkedIn</a> &nbsp;•&nbsp;
@@ -32,12 +33,15 @@ My interests lie at the intersection of **artificial intelligence, healthcare te
 
 Through internships, research, and personal projects, I've worked on healthcare AI agents, LLM evaluation, AI security, business analytics, and accessible technology.
 
-- **Previously:** Product Owner Intern at **Ensora Health**, working on AI-powered products for therapists.
-- **AI & Research:** Evaluated agent security and reliability through Purdue's Data Mine Corporate Partners program with **Prediction Guard**.
-- **Product Development:** Experience translating user needs into product requirements, prototypes, and working applications.
-- **Currently Exploring:** Agentic AI, LLM evaluation, human-AI interaction, and healthcare technology.
-- **Open To:** Product-focused opportunities, AI and healthcare collaborations, and new graduate roles.
-- **Outside of Tech:** Coffee, badminton, swimming, and brainstorming product ideas!
+
+- **Healthcare AI & Product Management:** Previously a Product Owner Intern at **Ensora Health**, a healthcare technology company, where I worked on AI-powered products for therapists, product discovery, and AI evaluation.
+- **AI Security & Research:** Worked with **Prediction Guard** through Purdue's Data Mine Corporate Partners program, evaluating AI agents for security, reliability, and vulnerabilities.
+- **Data Science & Analytics:** Collaborated with **AgReliant Genetics** through Purdue's Data Mine Corporate Partners program on customer segmentation, data pipelines, and business analytics.
+- **Product Development:** Enjoy turning ideas and user needs into functional products, from initial research and prototyping to development and iteration.
+- **Currently Exploring:** Agentic AI, LLM evaluation, healthcare technology, human-AI interaction. 
+- **Open To:** New graduate opportunities in product management, Forward Deployed Engineer and AI-focused roles. 
+- **Outside of Tech:** Coffee, badminton, swimming, and brainstorming new product ideas!
+
 
 ---
 
