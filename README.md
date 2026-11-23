@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://anain0404.github.io/anvesha-portfolio/">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/anvesha-nain-a14033223/">💼 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/anvesha-nain-a14033223/">💼 LinkedIn</a> &nbsp;
 </p>
 
 ---
