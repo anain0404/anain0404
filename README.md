@@ -127,7 +127,6 @@ I'm always interested in connecting with people working on AI, healthcare techno
 **Have an idea worth building? Let's talk!**
 
 <p align="center">
-  <a href="mailto:nain.anvesha4@gmail.com">Email</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/anvesha-nain-a14033223/">LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://anain0404.github.io/anvesha-portfolio/">Portfolio</a>
 </p>
