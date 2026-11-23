@@ -4,7 +4,7 @@
 <h3 align="center">Computer Science @ Purdue University</h3>
 
 <p align="center">
-  AI & Machine Intelligence | Product Development | Healthcare Technology
+  AI & Machine Learning | Product Development | Agentic AI
 </p>
 
 <p align="center">
@@ -12,37 +12,36 @@
 </p>
 
 <p align="center">
-  I'm interested in how AI can solve real problems, especially in healthcare, mental health, and accessibility.
-  I enjoy both building technology and figuring out how to turn it into something people actually need.
+  I'm interested in building technology that solves real problems, especially in healthcare, mental health, and accessibility.
+  I enjoy both the technical side of creating products and understanding how to make them useful for people.
 </p>
 
 <p align="center">
   <a href="https://anain0404.github.io/anvesha-portfolio/">🌐 Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/anvesha-nain-a14033223/">💼 LinkedIn</a>•&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nain.anvesha4@gmail.com">📧 Email Me</a>
+  <a href="https://www.linkedin.com/in/anvesha-nain-a14033223/">💼 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="mailto:nain.anvesha4@gmail.com">📧 Email Me</a>
 </p>
 
 ---
 
 ## A Little About Me
 
-I'm a Computer Science student at **Purdue University**, graduating in **May 2027**, with a focus on Machine Intelligence and certificates in Entrepreneurship & Innovation and Applications in Data Science.
+I'm a Computer Science student at **Purdue University**, graduating in **May 2027**, with certificates in Entrepreneurship & Innovation and Applications in Data Science.
 
-I love working at the intersection of **AI, healthcare, product management, and human-centered technology**.
+My interests lie at the intersection of **artificial intelligence, healthcare technology, product management, and human-centered design**.
 
-My experience spans product ownership for healthcare AI agents, adversarial AI evaluation, business analytics, and building accessible learning tools.
+Through internships, research, and personal projects, I've worked on healthcare AI agents, LLM evaluation, AI security, business analytics, and accessible technology.
 
-- **Previously:** Product Owner Intern at **Ensora Health**, working on agentic AI products for therapists.
+- **Previously:** Product Owner Intern at **Ensora Health**, working on AI-powered products for therapists.
 - **AI & Research:** Evaluated agent security and reliability through Purdue's Data Mine Corporate Partners program with **Prediction Guard**.
-- **Exploring:** AI, robotics, and multimodal emotion recognition for mental health applications.
-- **Product Building:** Led the development of **SnapStudy**, an AI learning tool for neurodiverse students.
-- **Currently Interested In:** Agentic AI, LLM evaluation, human-AI interaction, and healthcare technology.
-- **Open To:** AI and healthcare collaborations, product-focused projects, and new graduate opportunities.
+- **Product Development:** Experience translating user needs into product requirements, prototypes, and working applications.
+- **Currently Exploring:** Agentic AI, LLM evaluation, human-AI interaction, and healthcare technology.
+- **Open To:** Product-focused opportunities, AI and healthcare collaborations, and new graduate roles.
 - **Outside of Tech:** Coffee, badminton, swimming, and brainstorming product ideas!
 
 ---
 
-## What I've Worked On
+## Professional Experience
 
 ### Ensora Health | Product Owner Intern
 **June 2026 – August 2026**
@@ -51,7 +50,7 @@ Worked on agentic AI healthcare products designed to support therapists and impr
 
 - Led product discovery through therapist interviews, customer feedback, usability testing, and UX reviews.
 - Translated insights into **4 product requirements documents (PRDs)** and contributed to roadmap priorities.
-- Owned and prioritized the Azure DevOps backlog while working across Product, Engineering, Design, and AI teams.
+- Owned and prioritized the Azure DevOps backlog while collaborating across Product, Engineering, Design, and AI teams.
 - Built a reusable **Python-based AI evaluation framework across 4 AI agents**, including structured test datasets, field-level evaluations, and failure analysis.
 - Presented product insights and AI evaluation findings to executive leadership.
 
@@ -82,106 +81,53 @@ Worked on customer segmentation and business analytics through Purdue's Data Min
 
 ---
 
-### 🔎 Beyond GitHub
+## Projects & Portfolio
 
-Not all of my work can be shared publicly on GitHub, especially projects involving industry collaborations, proprietary technology, and research.
+I enjoy building projects that combine technical problem-solving with thoughtful product design. My work includes experiments with AI, healthcare applications, interactive tools, and software development.
 
-However, I've documented these experiences in more detail on my portfolio website, where you can explore the stories behind the projects, my contributions, the challenges I worked on, and supporting visuals and media.
+You can explore my public repositories here on GitHub. For a closer look at my experience, project decisions, design process, and contributions, visit my portfolio.
 
-**☕ [Explore My Work & Project Stories →](https://anain0404.github.io/anvesha-portfolio/)**
+Some of my work involves proprietary technology or research collaborations and cannot be shared publicly as source code.
 
----
-
-## Things I've Built
-
-### SnapStudy | Product Lead
-**AI-Powered Learning for Neurodiverse Students**
-
-Led a four-person cross-functional team in building an AI-powered learning tool designed to make study materials more accessible to neurodiverse students.
-
-- Translated user needs into product requirements and Figma prototypes.
-- Worked on an AI pipeline for simplifying educational content.
-- Improved **text-simplification accuracy by 35%** through product and AI iteration.
-
-**Tech:** `AWS Textract` · `Claude` · `Amazon Polly` · `FastAPI` · `Flutter` · `Figma`
-
-
-###  MindBloom | Personal Project
-**Mood Tracking & Mental Wellness Journal**
-
-Designed and developed MindBloom, a web application that makes daily self-reflection more approachable through mood tracking, personal journaling, and a calming, minimal interface.
-
-- Built an interactive mood tracker with five mood options and optional daily context tags.
-- Developed a journaling system that saves reflections locally in the user's browser.
-- Implemented a seven-day mood visualization to help users explore their emotional patterns.
-- Added reflection history, JSON data export, and entry deletion.
-- Designed a responsive interface with a focus on simplicity and user experience.
-
-**Tech:** `HTML` · `CSS` · `JavaScript` · `localStorage` · `GitHub Pages`
-
-🌐 **[Try MindBloom Live](https://anain0404.github.io/mindbloom/)** · 💻 **[View GitHub Repository](https://github.com/anain0404/mindbloom)**
+<p align="center">
+  <a href="https://anain0404.github.io/anvesha-portfolio/"><b>☕ Explore My Portfolio</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/anain0404?tab=repositories"><b>💻 Browse My Repositories</b></a>
+</p>
 
 ---
 
-### Trip Planner | Collaborative Project
-**Travel Planning Application | In Development**
+## My Toolkit
 
-Currently collaborating with a fellow developer on a travel planning application designed to help users organize trips and manage their travel plans in one place.
+### Programming & Development
 
-- Collaborating on the development of a travel planning application.
-- Working on building and improving the application's functionality and user experience.
-- Exploring ways to make trip organization simpler and more convenient.
+`Python` `C++` `Java` `JavaScript` `SQL` `React` `FastAPI` `Git` `REST APIs`
 
-**Status:** In Development
+### AI & Machine Learning
 
- **[View GitHub Repository](https://github.com/sanskritim05/Trip-Planner)**
-
----
-
-
-### AI, Robotics & Mental Health
-**Research Interest / Exploration**
-
-Exploring how AI and social robotics could support mental health through multimodal emotion recognition and early identification of potential mental health concerns.
-
-**Interests:** `Multimodal AI` · `Human-Robot Interaction` · `Emotion Recognition` · `Mental Health Technology`
-
----
-
-##  My Toolkit
-
-###  Programming & Development
-`Python` `C++` `Java` `SQL` `FastAPI` `Git` `REST APIs`
-
-###  AI & Machine Learning
 `Agentic AI` `LLMs` `RAG` `LangChain` `DeepEval` `AI Evaluation` `OWASP`
 
-###  Data & Analytics
+### Data & Analytics
+
 `Snowflake` `Tableau` `Power BI` `Data Pipelines` `Business Analysis`
 
-###  Product Management & Design
+### Product Management & Design
+
 `Figma` `Azure DevOps` `Jira`
 
 **Product Skills:** Product Discovery · User Research · PRDs · Product Roadmapping · Backlog Prioritization · User Stories · Agile/Scrum · Sprint Planning · Cross-Functional Collaboration
 
----
-
-##  What I'm Exploring Next
-
-I'm especially interested in projects that combine AI with real human needs.
-
-- **AI Agents:** Building and evaluating intelligent systems that can assist people in everyday workflows.
-- **AI for Mental Health:** Exploring multimodal emotion recognition and human-robot interaction.
-- **Healthcare AI:** Making healthcare tools more accessible, reliable, and useful for patients and clinicians.
-- **Human-Centered Product Development:** Turning user needs into practical products with thoughtful design.
-
----
-
 ## ☕ Let's Connect!
 
-I'm always interested in meeting people working on AI, healthcare technology, and meaningful product ideas.
+I'm always interested in connecting with people working on AI, healthcare technology, and product development.
 
 **Have an idea worth building? Let's talk!**
+
+<p align="center">
+  <a href="mailto:nain.anvesha4@gmail.com">Email</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/anvesha-nain-a14033223/">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://anain0404.github.io/anvesha-portfolio/">Portfolio</a>
+</p>
 
 <p align="center">
   <i>Brewing ideas into products that make a difference. ☕</i>
